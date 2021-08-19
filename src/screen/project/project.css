@@ -1,0 +1,142 @@
+.industry {
+  color: rgb(72, 49, 212);
+  display: block;
+  font-family: "Roboto Mono", monospace;
+  font-size: 38px;
+  font-weight: 500;
+  letter-spacing: normal;
+  line-height: 45.599998474121094px;
+  margin-block-end: 25px;
+  text-align: center;
+  text-transform: none;
+  width: 1140px;
+  margin-left: 130px;
+}
+
+.industry:hover {
+  color: #ccf381;
+}
+
+.image {
+  width: 200px;
+  height: 350px;
+  border-radius: 20px;
+  margin-left: 100px;
+}
+
+.projectcontainer1 {
+  flex-direction: row;
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-evenly;
+  position: relative;
+  margin-right: -15px;
+  margin-left: -15px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  border-bottom: 1px solid grey;
+  padding-bottom: 40px;
+}
+.projectcontainer2 {
+  flex-direction: row;
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-evenly;
+  position: relative;
+  margin-right: -15px;
+  margin-left: -15px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  border-bottom: 1px solid grey;
+  padding-bottom: 40px;
+}
+.projectcontainer3 {
+  flex-direction: row;
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-evenly;
+  position: relative;
+  margin-right: -15px;
+  margin-left: -15px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  border-bottom: 1px solid grey;
+  padding-bottom: 40px;
+}
+.projectcontainer4 {
+  flex-direction: row;
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-evenly;
+  position: relative;
+  margin-right: -15px;
+  margin-left: -15px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  border-bottom: 1px solid grey;
+  padding-bottom: 40px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.sim-btn:hover {
+  background-color: #ccf381;
+  border: none;
+}
+.btn-hover-new :hover {
+  color: rgb(72, 49, 212);
+}
+
+.btn-hover-new {
+  color: #333333;
+  position: relative;
+  border: 1px solid #333333;
+  overflow: hidden;
+  padding: 0px 18px;
+  display: inline-block;
+}
+.sim-btn {
+  line-height: 50px;
+  height: 50px;
+  text-align: center;
+  margin-left: 140px;
+  margin-top: 0px;
+  cursor: pointer;
+  border-radius: 15px;
+  margin-top: 30px;
+}
+
+.platform {
+  font-weight: 300;
+  letter-spacing: normal;
+  color: rgb(61, 21, 95);
+  display: block;
+  font-family: "Roboto Mono", monospace;
+  font-size: 14px;
+  width: 555px;
+  margin-left: 100px;
+  line-height: 25.31998062133789px;
+  margin-block-end: 20px;
+  margin-block-start: 0px;
+}
+
+.donor {
+  font-weight: 300;
+  letter-spacing: normal;
+  line-height: 45.599998474121094px;
+  margin-left: 100px;
+  color: rgb(61, 21, 95);
+  display: block;
+  font-family: "Roboto Mono", monospace;
+  font-size: 40px;
+}

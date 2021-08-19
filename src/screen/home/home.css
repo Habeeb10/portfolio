@@ -1,0 +1,82 @@
+.line {
+  margin-left: 200rem;
+}
+.container {
+  width: 100%;
+  height: 40rem;
+  background-image: linear-gradient(
+    90deg,
+    rgb(72, 49, 212) 67%,
+    rgb(204, 243, 129) 33%
+  );
+  display: flex;
+  flex-direction: row;
+}
+
+.habeeb {
+  font-size: 35px;
+  margin-left: 50px;
+  margin-top: 40px;
+  color: #ccf381;
+  font-weight: 900px;
+  font-style: unset;
+}
+.habeeb:hover {
+  color: rgb(61, 21, 95);
+}
+.frontend {
+  color: #ccf381;
+  font-weight: 900px;
+  margin-top: 150px;
+  font-size: 63.3599967956543px;
+  margin-left: 20px;
+  height: 60;
+  line-height: 70px;
+}
+.frontend:hover {
+  color: rgb(61, 21, 95);
+}
+.user {
+  font-size: 18.719999313354492px;
+  color: rgb(255, 255, 255);
+  width: 460.796875px;
+  height: 60;
+  margin-left: 20px;
+  font-weight: normal;
+}
+
+.imagecontainer {
+  width: 35%;
+  position: relative;
+  padding-right: 15px;
+  padding-left: 15px;
+  float: left;
+  display: block;
+  margin-top: 130px;
+}
+
+.imagebox {
+  visibility: visible;
+  position: relative;
+  display: block;
+}
+.imagebox::before {
+  content: "";
+  border: 2px solid white;
+  width: 70%;
+  height: 95%;
+  position: absolute;
+  bottom: -30px;
+  right: 20px;
+  z-index: 0;
+  margin-right: 30px;
+}
+
+.habeebimage {
+  width: 350px;
+  height: 350px;
+  z-index: 2;
+  position: relative;
+  margin-left: 70px;
+  margin-top: 20px;
+}

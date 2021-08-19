@@ -1,0 +1,83 @@
+.aboutcontainer {
+  width: 100%;
+  height: 40rem;
+  flex-direction: row;
+  justify-content: space-between;
+}
+/* .secondcontainer {
+  flex-direction: row;
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+  margin-top: 0px;
+  position: relative;
+} */
+.about {
+  font-weight: 500;
+  height: 45px;
+  letter-spacing: normal;
+  line-height: 45.599998474121094px;
+  margin-block-end: 25px;
+  margin-bottom: 25px;
+  position: relative;
+  text-align: center;
+  width: 1140px;
+  color: rgb(72, 49, 212);
+  display: block;
+  font-family: "Roboto Mono", monospace;
+  font-size: 40px;
+  margin-top: 50px;
+  margin-left: 120px;
+}
+.about:hover {
+  color: #ccf381;
+}
+
+.myname {
+  font-weight: 300;
+  letter-spacing: normal;
+  line-height: 45.599998474121094px;
+  margin-left: 100px;
+  color: rgb(61, 21, 95);
+  display: block;
+  font-family: "Roboto Mono", monospace;
+  font-size: 40px;
+}
+.aboutme {
+  font-weight: 300;
+  letter-spacing: normal;
+  color: rgb(61, 21, 95);
+  display: block;
+  font-family: "Roboto Mono", monospace;
+  font-size: 14px;
+  width: 555px;
+  height: 200px;
+  margin-left: 100px;
+  line-height: 25.31998062133789px;
+  margin-block-end: 20px;
+  margin-block-start: 0px;
+  margin-bottom: 20px;
+}
+
+.line {
+  margin-right: 600px;
+}
+
+button {
+  border: 1px solid;
+  color: rgb(72, 49, 212);
+  background-color: aliceblue;
+  width: 150px;
+  height: 50px;
+  border-radius: 10px;
+  font-size: 13px;
+  margin-top: 30px;
+  text-align: center;
+  margin-left: 100px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #ccf381;
+  border: none;
+  cursor: pointer;
+}
