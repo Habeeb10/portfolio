@@ -79,6 +79,11 @@ const Contact = () => {
             </a>
           </nav>
         </div>
+        <div class="footer-distributed">
+          <div class="footer-left">
+            <h3 class="footer-company-name">All Rights Reserved. © 2021 </h3>
+          </div>
+        </div>
       </footer>
     </div>
   );
