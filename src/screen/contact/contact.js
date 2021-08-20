@@ -81,13 +81,9 @@ const Contact = () => {
         </div>
         <div class="footer-distributed">
           <div class="footer-left">
-            <h3>
-              Lagos, Nigeria
-              <br />
-              Call: +(234)8105950857
-              <br />
+            <h3 class="footer-company-name">
+              All Rights Reserved. <br /> © tijani habeeb 2021
             </h3>
-            <h3 class="footer-company-name">All Rights Reserved. © 2021 </h3>
           </div>
         </div>
       </footer>
