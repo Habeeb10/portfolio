@@ -17,7 +17,7 @@ const About = () => {
             ideas, a good team player, resourceful problem solver, well grounded
             in communication and interaction. Attention to detail oriented
             personnel, and usability blending nicely with beautiful and modern
-            aesthetics.
+            pleasant.
           </h6>
           <div>
             <a href="https://drive.google.com/file/d/1mPEr1SpKYgLnwCM5JjtDkGtMMbIUf9xN/view?usp=drivesdk">
