@@ -10,13 +10,14 @@ const About = () => {
         <div className="tijani">
           <h1 className="myname">Tijani Habeeb Opeyemi</h1>
           <h6 className="aboutme" aboutme>
-            I’m a cross-platform mobile application developer, with a plethora
-            of qualitative experience in the area of architecting and designing
-            complex as well as robust mobile application and services. I’m
-            exceptionally fast in learning, also open to new ideas, a good team
-            player, resourceful problem solver, well grounded in communication
-            and interaction. Attention to detail oriented personnel, and
-            usability blending nicely with beautiful and modern aesthetics.
+            I’m a cross-platform mobile application developer, with a
+            superfluity of qualitative experience in the area of architecting
+            and designing complex as well as robust mobile application and
+            services. I’m exceptionally fast in learning, also open to new
+            ideas, a good team player, resourceful problem solver, well grounded
+            in communication and interaction. Attention to detail oriented
+            personnel, and usability blending nicely with beautiful and modern
+            aesthetics.
           </h6>
           <div>
             <a href="https://drive.google.com/file/d/1mPEr1SpKYgLnwCM5JjtDkGtMMbIUf9xN/view?usp=drivesdk">
