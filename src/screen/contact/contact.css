@@ -143,3 +143,7 @@ a {
   background: #007bb5;
   color: white;
 }
+
+.__WebInspectorHideElement__ {
+  visibility: hidden !important;
+}

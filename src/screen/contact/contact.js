@@ -24,6 +24,7 @@ const Contact = () => {
               class="form-control"
               required=""
               id="email"
+              data-validation-required-message="Please enter your mail"
             />
           </div>
           <div class="formgroup">
@@ -34,6 +35,7 @@ const Contact = () => {
               class="form-control"
               required=""
               id="phone"
+              data-validation-required-message="Please enter your phone"
             />
           </div>
         </div>
@@ -45,12 +47,13 @@ const Contact = () => {
             rows="5"
             id="message"
             required=""
+            data-validation-required-message="Please enter your message"
           ></textarea>
         </div>
         <div class="text-center mt-4">
           <button
             type="submit"
-            class="sim-btn btn-hover-new"
+            class="sim-btn btn-hover-new   __webInspectorHideElement__"
             className="button2"
           >
             Send
