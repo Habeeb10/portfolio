@@ -156,3 +156,7 @@ a {
   font-size: 14px;
   margin-top: 50px;
 }
+.right-info p em {
+  font-style: normal;
+  font-weight: 500;
+}

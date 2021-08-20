@@ -80,6 +80,12 @@ const Contact = () => {
           </nav>
         </div>
         <div class="footer-distributed">
+          <em>
+            Lagos, Nigeria
+            <br />
+            Call: +(234)8105950857
+            <br />
+          </em>
           <div class="footer-left">
             <h3 class="footer-company-name">All Rights Reserved. © 2021 </h3>
           </div>
