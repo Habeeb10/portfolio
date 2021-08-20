@@ -147,3 +147,14 @@ a {
 .__WebInspectorHideElement__ {
   visibility: hidden !important;
 }
+
+.footer-distributed .footer-left {
+  float: left;
+}
+
+.footer-distributed .footer-company-name {
+  font-weight: 300;
+  margin: 0 10px;
+  color: #666;
+  padding: 0;
+}
